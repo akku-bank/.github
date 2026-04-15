@@ -63,7 +63,9 @@
 
 
 ## 🏗 통합 서비스 아키텍처
-
+<p align="center">
+  <img src="../assets/서비스_아키텍처.png"/>
+</p>
 
 ## 📄 ERD
 
