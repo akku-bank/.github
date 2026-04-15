@@ -21,6 +21,46 @@
 <br/>
 
 ## 🔎 아꾸뱅꾸 기능 살펴보기
+### 결제
+<p align="center">
+  <img src="../assets/결제.gif" width="350"/>
+</p>
+
+### 리포트 
+<p align="center">
+  <img src="../assets/리포트.gif" width="350"/>
+</p>
+
+### 용돈챌린지
+> 아이가 부모님께 이번주 용돈을 요청하는 기능으로, 주도적인 소비 습관 향상을 지원합니다
+
+용돈챌린지 제안하기
+<p align="center">
+  <img src="../assets/용돈챌린지.gif" width="350"/>
+</p>
+완료된 용돈챌린지 처리 요청
+<p align="center">
+  <img src="../assets/용돈챌린지_요청.gif" width="350"/>
+</p>
+
+### 금융 챗봇
+> 금융 특화 챗봇과 대화를 통해, 기부 포인트(젤링)을 쌓아 기부 실천의 쀼ㅜ듯함?도 금융/경제 지식도 얻어용
+<p align="center">
+  <img src="../assets/퀴즈.gif" width="200"/>
+</p>
+
+### 기부하기
+> 금융챗봇과 결제 캐시백으로 쌓은 아부뱅구 만의 젤링으로 기부를 실천해요
+<p align="center">
+  <img src="../assets/기부.gif" width="200"/>
+</p>
+
+### 아바타 꾸미기
+> 우리 아꾸뱅꾸만의 차별점! 자랑! 아바타를 꾸며봐
+<p align="center">
+  <img src="../assets/아바타꾸미기.gif" width="350"/>
+</p>
+
 
 ## 🏗 통합 서비스 아키텍처
 
